@@ -5,7 +5,7 @@
 ![C++](https://img.shields.io/badge/C++-17-blue)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jul%2031,%202025%2012:24%20PM%20IST-blueviolet)
 
-A high-performance C++ backend for a social media application, replicating a Node.js implementation. Supports user authentication, tweeting, following, notifications, and image uploads with modern C++ libraries.
+A high-performance C++ backend for a social media application. Supports user authentication, tweeting, following, notifications, and image uploads using modern C++ libraries.
 
 ## Table of Contents
 - [Features](#features)
